@@ -33,14 +33,15 @@ body {
 }
 
 input {
+  width: 290px;
+  height: 40px;
   border: 1px solid dodgerblue;
   border-radius: 3px;
   padding-left: 10px;
   margin: 10px;
   margin-left: 50px;
   margin-right: 50px;
-  width: 290px;
-  height: 40px;
+  outline: none;
 }
 
 .button input {
