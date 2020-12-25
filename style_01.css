@@ -1,0 +1,57 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: calibri;
+  background: #01a8df;
+}
+
+.para p {
+  margin-top: 70px;
+  text-align: center;
+  font-size: 45px;
+  color: white;
+}
+
+.main {
+  background: white;
+  margin: 50px auto;
+  width: 400px;
+  border: 1px solid white;
+  border-radius: 3px;
+  height: 300px;
+}
+
+.main p {
+  margin-top: 20px;
+  text-align: center;
+  color: #02baf7;
+  font-family: arial;
+  font-size: 20px;
+}
+
+input {
+  border: 1px solid dodgerblue;
+  border-radius: 3px;
+  padding-left: 10px;
+  margin: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 290px;
+  height: 40px;
+}
+
+.button input {
+  background: #02baf7;
+  margin-left: 50px;
+  height: 35px;
+  width: 305px;
+}
+
+.last p {
+  font-size: 16px;
+  margin: 50px 450px;
+  color: white;
+}
